@@ -7,3 +7,7 @@ This my first project learning HTML5, CSS, Javascript, Jquery etc.
 I am excited to learn more tech stuff. This is a learning experience
 
 My phone number: +233 0123202827
+
+Address: 1234 ghana drive
+
+Occupation: Software Engineer
